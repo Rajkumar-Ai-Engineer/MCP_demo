@@ -1,0 +1,15 @@
+dataclasses
+langchain
+langchain-openai
+langchain-groq
+langchain-community
+openai
+groq
+langchain-mcp-adapters
+python-dotenv
+google-auth 
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+flask
+-e .

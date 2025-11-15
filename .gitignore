@@ -1,0 +1,9 @@
+venv
+.env
+Notebooks
+pyproject.toml
+uv.lock
+artifacts
+logs
+temp
+MCP_AGENT.egg-info/
